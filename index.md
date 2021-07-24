@@ -7,3 +7,4 @@ layout: default
 
 [Link to another page](./docs/SUPPORT.html)
 
+[jekyll docs](https://jekyllrb.com/docs/)
