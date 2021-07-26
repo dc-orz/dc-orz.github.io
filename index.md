@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[logo](https://github.com/dc-orz/dc-orz.github.io/blob/master/assets/logo.png?raw=true)
+
 **Home**
 
 # SUMMARY
